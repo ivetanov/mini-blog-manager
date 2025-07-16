@@ -17,6 +17,10 @@ const geistMono = Geist_Mono({
 export const metadata = {
   title: "AI Meals - demo",
   description: "This demo blog is part of my portfolio representing my programming skills",
+   icons: {
+    icon: "/favicon.ico",
+    shortcut: "/favicon.png"
+  },
 };
 
 export default function RootLayout({ children }) {
