@@ -19,7 +19,7 @@ export const metadata = {
   description: "This demo blog is part of my portfolio representing my programming skills",
    icons: {
     icon: "/favicon.ico",
-    shortcut: "/favicon.png"
+    shortcut: "/favicon.ico"
   },
 };
 
